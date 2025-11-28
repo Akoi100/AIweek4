@@ -147,7 +147,7 @@ A 3-minute video demonstration is available covering:
 
 ## 🤝 Contributors
 
-[Your Team Members' Names Here]
+[D'vock Tyronne Akoi]
 
 ---
 
@@ -166,6 +166,7 @@ This project is submitted as part of the AI in Software Engineering course assig
 
 ---
 
-**Submission Date**: [Add Date]  
+**Submission Date**: [28th Nov 2025]  
 **Course**: AI in Software Engineering  
 **Assignment**: Week 4 - Building Intelligent Software Solutions
+
